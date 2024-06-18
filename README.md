@@ -45,3 +45,7 @@ Each worker agent has a specific role in the development process:
 - **Role-based workflow automation**: Each agent has a clearly defined role and tasks, ensuring efficient workflow management.
 - **Customizable prompts and parameters**: Easily modify prompts and parameters to suit specific project needs.
 - **Streamlined communication**: Effective coordination between agents to ensure smooth and efficient workflow execution.
+
+ ## Conversation Log
+
+The file `402e42a-4479-4769-ae52-d79e47edeccd-Message.json` contains the full conversation log with all the agents. This file documents the interactions and tasks performed by each agent throughout the workflow.
